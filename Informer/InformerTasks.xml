@@ -1,0 +1,283 @@
+<?xml version="1.0"?>
+<Informer>
+  <Map>
+    <Substation name="Зеленогорская" objectCode="4369">
+      <Meter itemCode="1"/>
+      <Meter itemCode="2"/>
+      <Meter itemCode="3"/>
+      <Meter itemCode="4"/>
+      <Meter itemCode="5"/>
+      <Meter itemCode="6"/>
+      <Meter itemCode="7"/>
+      <Meter itemCode="8"/>
+      <Meter itemCode="9"/>
+      <Meter itemCode="10"/>
+      <Meter itemCode="11"/>
+      <Meter itemCode="12"/>
+      <Meter itemCode="13"/>
+      <Meter itemCode="14"/>
+      <Meter itemCode="15"/>
+      <Meter itemCode="16"/>    
+    </Substation>
+    <Substation name="Суворовская" objectCode="4370">
+      <Meter itemCode="1"/>
+      <Meter itemCode="2"/>
+      <Meter itemCode="3"/>
+      <Meter itemCode="4"/>      
+    </Substation>
+    <Substation name="Бекешевская" objectCode="4371">
+      <Meter itemCode="1"/>
+      <Meter itemCode="2"/>
+      <Meter itemCode="3"/>
+      <Meter itemCode="4"/>
+      <Meter itemCode="5"/>
+      <Meter itemCode="6"/>
+      <Meter itemCode="7"/>
+      <Meter itemCode="8"/>    
+    </Substation>
+    <Substation name="Новая деревня" objectCode="4372">
+      <Meter itemCode="1"/>
+      <Meter itemCode="2"/>
+      <Meter itemCode="3"/>
+      <Meter itemCode="4"/>
+      <Meter itemCode="5"/>
+      <Meter itemCode="6"/>
+      <Meter itemCode="7"/>
+      <Meter itemCode="8"/>     
+    </Substation>
+    <Substation name="Беломечетская" objectCode="4373">
+      <Meter itemCode="1"/>
+      <Meter itemCode="2"/>
+      <Meter itemCode="3"/>
+      <Meter itemCode="4"/>
+    </Substation>
+    <Substation name="Заветная" objectCode="4374">
+      <Meter itemCode="1"/>
+      <Meter itemCode="2"/>
+      <Meter itemCode="3"/>
+      <Meter itemCode="4"/>
+      <Meter itemCode="5"/>
+      <Meter itemCode="6"/>
+      <Meter itemCode="7"/>
+      <Meter itemCode="8"/>
+    </Substation>
+    <Substation name="Каясула" objectCode="4375">
+      <Meter itemCode="1"/>
+      <Meter itemCode="2"/>
+      <Meter itemCode="3"/>
+      <Meter itemCode="4"/>
+      <Meter itemCode="5"/>
+      <Meter itemCode="6"/>
+      <Meter itemCode="7"/>
+      <Meter itemCode="8"/>
+      <Meter itemCode="9"/>
+      <Meter itemCode="10"/>
+      <Meter itemCode="11"/>
+      <Meter itemCode="12"/>
+      <Meter itemCode="13"/>
+      <Meter itemCode="14"/>
+      <Meter itemCode="15"/>
+      <Meter itemCode="16"/>
+    </Substation>
+    <Substation name="Ачикулак" objectCode="4376">
+      <Meter itemCode="1"/>
+      <Meter itemCode="2"/>
+      <Meter itemCode="3"/>
+      <Meter itemCode="4"/>
+      <Meter itemCode="5"/>
+      <Meter itemCode="6"/>
+      <Meter itemCode="7"/>
+      <Meter itemCode="8"/>
+      <Meter itemCode="9"/>
+      <Meter itemCode="10"/>
+      <Meter itemCode="11"/>
+      <Meter itemCode="12"/>
+      <Meter itemCode="13"/>
+      <Meter itemCode="14"/>
+      <Meter itemCode="15"/>
+      <Meter itemCode="16"/>
+    </Substation>
+    <Substation name="Затеречная" objectCode="4377">
+      <Meter itemCode="1"/>
+      <Meter itemCode="2"/>
+      <Meter itemCode="3"/>
+      <Meter itemCode="4"/>
+      <Meter itemCode="5"/>
+      <Meter itemCode="6"/>
+      <Meter itemCode="7"/>
+      <Meter itemCode="8"/>
+      <Meter itemCode="9"/>
+      <Meter itemCode="10"/>
+      <Meter itemCode="11"/>
+      <Meter itemCode="12"/>
+      <Meter itemCode="13"/>
+      <Meter itemCode="14"/>
+      <Meter itemCode="15"/>
+      <Meter itemCode="16"/>
+      <Meter itemCode="17"/>
+      <Meter itemCode="18"/>
+      <Meter itemCode="19"/>
+      <Meter itemCode="20"/>      
+    </Substation>
+    <Substation name="Арзгир" objectCode="4378">
+      <Meter itemCode="1"/>
+      <Meter itemCode="2"/>
+      <Meter itemCode="3"/>
+      <Meter itemCode="4"/>
+      <Meter itemCode="5"/>
+      <Meter itemCode="6"/>
+      <Meter itemCode="7"/>
+      <Meter itemCode="8"/>      
+    </Substation>
+    <Substation name="Колодезная" objectCode="4379">
+      <Meter itemCode="1"/>
+      <Meter itemCode="2"/>
+      <Meter itemCode="3"/>
+      <Meter itemCode="4"/>
+      <Meter itemCode="5"/>
+      <Meter itemCode="6"/>
+      <Meter itemCode="7"/>
+      <Meter itemCode="8"/>      
+    </Substation>
+    <Substation name="Малая Джалга" objectCode="4380">
+      <Meter itemCode="1"/>
+      <Meter itemCode="2"/>
+      <Meter itemCode="3"/>
+      <Meter itemCode="4"/>      
+    </Substation>
+    <Substation name="Дивное" objectCode="4381">
+      <Meter itemCode="1"/>
+      <Meter itemCode="2"/>
+      <Meter itemCode="3"/>
+      <Meter itemCode="4"/>            
+    </Substation>
+    <Substation name="Галюгаевская" objectCode="4385">
+      <Meter itemCode="1"/>
+      <Meter itemCode="2"/>
+      <Meter itemCode="3"/>
+      <Meter itemCode="4"/>            
+    </Substation>
+    <Substation name="Рагули" objectCode="4575">
+      <Meter itemCode="1"/>
+      <Meter itemCode="2"/>
+      <Meter itemCode="3"/>
+      <Meter itemCode="4"/>
+      <Meter itemCode="5"/>
+      <Meter itemCode="6"/>
+      <Meter itemCode="7"/>
+      <Meter itemCode="8"/>      
+    </Substation>
+  </Map>
+  <Tasks>
+    <Task taskID="0">
+      <Title>Колодезная</Title>
+      <ObjectCode>4379</ObjectCode>
+      <Items>
+        <Item itemID="0">
+          <ItemCode>5</ItemCode>
+          <Color>Blue</Color>
+        </Item>
+        <Item itemID="1">
+          <ItemCode>6</ItemCode>
+          <Color>Lime</Color>
+        </Item>
+        <Item itemID="2">
+          <ItemCode>1</ItemCode>
+          <Color>Red</Color>
+        </Item>
+        <Item itemID="3">
+          <ItemCode>2</ItemCode>
+          <Color>Orange</Color>
+        </Item>
+      </Items>
+    </Task>
+    <Task taskID="1">
+      <Title>Бекешевская</Title>
+      <ObjectCode>4371</ObjectCode>
+      <Items>
+        <Item itemID="0">
+          <ItemCode>1</ItemCode>
+          <Color>Blue</Color>
+        </Item>
+        <Item itemID="1">
+          <ItemCode>2</ItemCode>
+          <Color>Lime</Color>
+        </Item>
+        <Item itemID="2">
+          <ItemCode>5</ItemCode>
+          <Color>Red</Color>
+        </Item>
+        <Item itemID="3">
+          <ItemCode>6</ItemCode>
+          <Color>Orange</Color>
+        </Item>
+      </Items>
+    </Task>
+    <Task taskID="2">
+      <Title>Зеленогорская</Title>
+      <ObjectCode>4369</ObjectCode>
+      <Items>
+        <Item itemID="0">
+          <ItemCode>1</ItemCode>
+          <Color>Blue</Color>
+        </Item>
+        <Item itemID="1">
+          <ItemCode>2</ItemCode>
+          <Color>Lime</Color>
+        </Item>
+        <Item itemID="2">
+          <ItemCode>13</ItemCode>
+          <Color>Red</Color>
+        </Item>
+        <Item itemID="3">
+          <ItemCode>14</ItemCode>
+          <Color>Orange</Color>
+        </Item>
+      </Items>
+    </Task>
+    <Task taskID="3">
+      <Title>Арзгир</Title>
+      <ObjectCode>4378</ObjectCode>
+      <Items>
+        <Item itemID="0">
+          <ItemCode>5</ItemCode>
+          <Color>Blue</Color>
+        </Item>
+        <Item itemID="1">
+          <ItemCode>6</ItemCode>
+          <Color>Lime</Color>
+        </Item>
+        <Item itemID="2">
+          <ItemCode>1</ItemCode>
+          <Color>Red</Color>
+        </Item>
+        <Item itemID="3">
+          <ItemCode>2</ItemCode>
+          <Color>Orange</Color>
+        </Item>
+      </Items>
+    </Task>
+    <Task taskID="4">
+      <Title>Рагули</Title>
+      <ObjectCode>4575</ObjectCode>
+      <Items>
+        <Item itemID="0">
+          <ItemCode>1</ItemCode>
+          <Color>Blue</Color>
+        </Item>
+        <Item itemID="1">
+          <ItemCode>2</ItemCode>
+          <Color>Lime</Color>
+        </Item>
+        <Item itemID="2">
+          <ItemCode>5</ItemCode>
+          <Color>Red</Color>
+        </Item>
+        <Item itemID="3">
+          <ItemCode>6</ItemCode>
+          <Color>Orange</Color>
+        </Item>
+      </Items>
+    </Task>
+  </Tasks>
+</Informer>

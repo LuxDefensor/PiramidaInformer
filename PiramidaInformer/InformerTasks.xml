@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<Tasks>
+	<Task taskID="0">
+		<Title>Колодезная</Title>
+		<ObjectCode>4379</ObjectCode>
+		<Items>
+			<Item itemID="0">
+				<ItemCode>5</ItemCode>
+				<Color>Blue</Color>
+			</Item>
+			<Item itemID="1">
+				<ItemCode>6</ItemCode>
+				<Color>Lime</Color>
+			</Item>
+			<Item itemID="2">
+				<ItemCode>1</ItemCode>
+				<Color>Red</Color>
+			</Item>
+			<Item itemID="3">
+				<ItemCode>2</ItemCode>
+				<Color>Orange</Color>
+			</Item>
+		</Items>
+	</Task>
+	<Task taskID="1">
+		<Title>Бекешевская</Title>
+		<ObjectCode>4371</ObjectCode>
+		<Items>
+			<Item itemID="0">
+				<ItemCode>1</ItemCode>
+				<Color>Blue</Color>
+			</Item>
+			<Item itemID="1">
+				<ItemCode>2</ItemCode>
+				<Color>Lime</Color>
+			</Item>
+			<Item itemID="2">
+				<ItemCode>5</ItemCode>
+				<Color>Red</Color>
+			</Item>
+			<Item itemID="3">
+				<ItemCode>6</ItemCode>
+				<Color>Orange</Color>
+			</Item>
+		</Items>
+	</Task>
+	<Task taskID="2">
+		<Title>Зеленогорская</Title>
+		<ObjectCode>4369</ObjectCode>
+		<Items>
+			<Item itemID="0">
+				<ItemCode>1</ItemCode>
+				<Color>Blue</Color>
+			</Item>
+			<Item itemID="1">
+				<ItemCode>2</ItemCode>
+				<Color>Lime</Color>
+			</Item>
+			<Item itemID="2">
+				<ItemCode>13</ItemCode>
+				<Color>Red</Color>
+			</Item>
+			<Item itemID="3">
+				<ItemCode>14</ItemCode>
+				<Color>Orange</Color>
+			</Item>
+		</Items>
+	</Task>
+	<Task taskID="3">
+		<Title>Арзгир</Title>
+		<ObjectCode>4378</ObjectCode>
+		<Items>
+			<Item itemID="0">
+				<ItemCode>5</ItemCode>
+				<Color>Blue</Color>
+			</Item>
+			<Item itemID="1">
+				<ItemCode>6</ItemCode>
+				<Color>Lime</Color>
+			</Item>
+			<Item itemID="2">
+				<ItemCode>1</ItemCode>
+				<Color>Red</Color>
+			</Item>
+			<Item itemID="3">
+				<ItemCode>2</ItemCode>
+				<Color>Orange</Color>
+			</Item>
+		</Items>
+	</Task>
+	<Task taskID="4">
+		<Title>Рагули</Title>
+		<ObjectCode>4575</ObjectCode>
+		<Items>
+			<Item itemID="0">
+				<ItemCode>1</ItemCode>
+				<Color>Blue</Color>
+			</Item>
+			<Item itemID="1">
+				<ItemCode>2</ItemCode>
+				<Color>Lime</Color>
+			</Item>
+			<Item itemID="2">
+				<ItemCode>5</ItemCode>
+				<Color>Red</Color>
+			</Item>
+			<Item itemID="3">
+				<ItemCode>6</ItemCode>
+				<Color>Orange</Color>
+			</Item>
+		</Items>
+	</Task>
+</Tasks>
