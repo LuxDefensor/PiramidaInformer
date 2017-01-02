@@ -246,7 +246,7 @@ namespace PiramidaInformer
             }
 
             Console.WriteLine("Сообщение отправлено");
-            okMessage = DateTime.Now.ToString() + ": Завершено успешно";
+            okMessage = "Завершено успешно";
             Logger.Log(okMessage);
         }
 
